@@ -107,6 +107,13 @@ This repository demonstrates AI-assisted research workflows and technical conten
 
 ---
 
+## Important Note
+
+Some references and documentation links in the PDF reports may not appear clickable in GitHub's preview viewer.  
+To access all links properly, please download the PDF and open it in a local PDF reader.
+
+---
+
 ## Author
 
 Cláudio Menezes de Oliveira Santos  
