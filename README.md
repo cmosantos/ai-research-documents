@@ -41,8 +41,8 @@ A comprehensive research report covering:
 - Frameworks such as LangChain, CrewAI, and AutoGen
 
 File:
-
 ✅ reports/ai_agents_report.pdf
+
 ---
 
 ### Retrieval-Augmented Generation (RAG) Architecture
