@@ -107,18 +107,13 @@ This repository demonstrates AI-assisted research workflows and technical conten
 
 ---
 
-### Contact
-
----
-
 ## Author
 
 Cláudio Menezes de Oliveira Santos  
-Cloud | AI | Automation
+Cloud | AI | Automation  
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmosantos@gmail.com)
+## Contact
 
+[![Email](https://img.shields.io/badge/Email-cmosantos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmosantos@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-cmosantos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cmosantos)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-claudio--santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/claudio--santos)
-
